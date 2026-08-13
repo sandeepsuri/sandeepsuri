@@ -1,16 +1,35 @@
-## Hi there 👋
+# Sandeep Suri
 
-<!--
-**sandeepsuri/sandeepsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building developer tools and product experiences
+with TypeScript, React, Node.js and AI.
 
-Here are some ideas to get you started:
+Currently building **AgentDeck** — a local-first control panel for
+running and coordinating Claude Code and Codex agents across repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+### AgentDeck
+Local-first AI agent orchestration for macOS.
+
+TypeScript · React · Fastify · SQLite · Swift · WebSockets
+
+→ View project
+
+### Bogey Boys
+Mobile golf platform for scoring, handicaps and social rounds.
+
+React Native · Expo · Supabase · RevenueCat
+
+→ View project
+
+## Engineering
+
+Frontend        React · Next.js · React Native · TypeScript
+Backend         Node.js · Express · Fastify
+Platforms       iOS · Web · macOS
+Infrastructure  GCP · Firebase · GitHub Actions
+Testing         Jest · Vitest · Selenium · Appium
+
+## Currently interested in
+
+AI developer tooling · agent orchestration · product engineering
