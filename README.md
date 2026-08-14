@@ -12,9 +12,7 @@ Local-first AI developer tooling for managing and coordinating Claude Code and C
 
 **TypeScript · React · Fastify · SQLite · Swift · WebSockets**
 
-→ [View AgentDeck](https://github.com/sandeepsuri/agentdeck)
-
-### [Bogey Boys][https://apps.apple.com/ca/app/bogeyboys/id6761443378]
+### [Bogey Boys](https://apps.apple.com/ca/app/bogeyboys/id6761443378)
 
 Mobile golf platform for scoring, handicaps, player profiles, and social rounds.
 
