@@ -14,7 +14,7 @@ Local-first AI developer tooling for managing and coordinating Claude Code and C
 
 → [View AgentDeck](https://github.com/sandeepsuri/agentdeck)
 
-### Bogey Boys
+### [Bogey Boys][https://apps.apple.com/ca/app/bogeyboys/id6761443378]
 
 Mobile golf platform for scoring, handicaps, player profiles, and social rounds.
 
